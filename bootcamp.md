@@ -8,3 +8,4 @@ penjelasan tentang colaborasi pada github
 algoritma dan psucode
 penjelasan agar saat ngoding menggunakan ai atau tidak harus melakukan full request
 penjelasan tentang branch pada github
+test
